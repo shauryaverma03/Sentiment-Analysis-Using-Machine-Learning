@@ -1,7 +1,7 @@
 # 📊 Sentiment Analysis of Amazon Fine Food Reviews
 
 ![Project Banner](https://img.shields.io/badge/ML%20Project-Sentiment%20Analysis-blueviolet)  
-*Machine Learning • NLP • TF-IDF • Power BI Dashboard*
+*Machine Learning • NLP • Power BI Dashboard*
 
 ---
 
@@ -15,7 +15,7 @@ It combines **NLP and Machine Learning** to classify reviews into **positive** o
 ## 🧠 Problem Statement
 
 Build a sentiment analysis system that processes textual data from customer food reviews and classifies opinions as positive or negative.  
-Use **TF-IDF** for feature extraction and **Logistic Regression** for classification, followed by visual storytelling using **Power BI**.
+Use **Logistic Regression** for classification, followed by visual storytelling using **Power BI**.
 
 ---
 
@@ -80,37 +80,24 @@ Use **TF-IDF** for feature extraction and **Logistic Regression** for classifica
 
 ## 📸 Dashboard Preview
 
-> 🎥 Full interactive walkthrough available in the video attached on LinkedIn.
+![Dashboard Screenshot](WhatsApp Image 2025-07-16 at 19.06.18.jpeg)
 
 ---
 
-## 🙏 Acknowledgements
-
-Special thanks to **Sandeep Kaur Ma’am** and **Jaffar Amin Sir** for their guidance throughout the  
-**Data Analytics & Visualization Skill Development Course**.
-
-Team Members:
-- Shaurya Verma  
-- Aditya Bahuguna  
-- Sourav Kumar Dey  
-- Anmol Bajpai  
-- Himanth Davuluri  
-
----
 
 ## 🔗 Useful Links
 
 - 📁 **Dataset:** [Amazon Fine Food Reviews – Kaggle](https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews)  
 - 💻 **GitHub Repo:** [Click Here](https://github.com/shauryaverma03/Sentiment-Analysis-Using-Machine-Learning)  
-- 📹 **LinkedIn Video Post:** [Add Link Here]  
+- 📹 **LinkedIn Video Post:** [Click Here](https://www.linkedin.com/feed/update/urn:li:activity:7351348628013129730/)  
 
 ---
 
 ## 📬 Contact
 
 For queries, feedback, or collaborations:  
-**📧 Shaurya Verma – [your.email@example.com]**  
-**🌐 LinkedIn – [https://linkedin.com/in/shauryaverma03](https://linkedin.com/in/shauryaverma03)**
+**📧 Shaurya Verma – [shauryaverma036@gmail.com]**  
+**🌐 LinkedIn – [https://linkedin.com/in/shaurya47](https://linkedin.com/in/shaurya47)**
 
 ---
 
