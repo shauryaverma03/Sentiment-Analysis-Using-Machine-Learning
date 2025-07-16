@@ -80,7 +80,8 @@ Use **Logistic Regression** for classification, followed by visual storytelling 
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](WhatsApp Image 2025-07-16 at 19.06.18.jpeg)
+
+![Dashboard Screenshot](dashboard-preview.png)
 
 ---
 
